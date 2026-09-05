@@ -1,0 +1,199 @@
+product_id,product_name,category,sub_category,unit_cost,unit_price
+PROD-0001,Laptops Model 588,Electronics,Laptops,565.92,679.6
+PROD-0002,Laptops Model 631,Electronics,Laptops,71.57,119.88
+PROD-0003,Laptops Model 812,Electronics,Laptops,547.19,660.69
+PROD-0004,Laptops Model 980,Electronics,Laptops,281.42,364.85
+PROD-0005,Laptops Model 172,Electronics,Laptops,343.63,448.69
+PROD-0006,Laptops Model 925,Electronics,Laptops,190.87,242.68
+PROD-0007,Laptops Model 406,Electronics,Laptops,90.92,131.9
+PROD-0008,Laptops Model 871,Electronics,Laptops,118.33,215.21
+PROD-0009,Laptops Model 793,Electronics,Laptops,700.85,1200.74
+PROD-0010,Laptops Model 108,Electronics,Laptops,122.85,199.56
+PROD-0011,Laptops Model 459,Electronics,Laptops,492.15,655.2
+PROD-0012,Laptops Model 255,Electronics,Laptops,580.72,988.65
+PROD-0013,Smartphones Model 322,Electronics,Smartphones,496.7,771.83
+PROD-0014,Smartphones Model 870,Electronics,Smartphones,78.48,100.48
+PROD-0015,Smartphones Model 459,Electronics,Smartphones,107.29,191.41
+PROD-0016,Smartphones Model 243,Electronics,Smartphones,770.97,1119.14
+PROD-0017,Smartphones Model 354,Electronics,Smartphones,205.75,353.0
+PROD-0018,Smartphones Model 722,Electronics,Smartphones,447.18,751.27
+PROD-0019,Smartphones Model 127,Electronics,Smartphones,235.09,459.14
+PROD-0020,Smartphones Model 408,Electronics,Smartphones,679.83,1173.88
+PROD-0021,Smartphones Model 293,Electronics,Smartphones,172.3,290.42
+PROD-0022,Smartphones Model 155,Electronics,Smartphones,600.8,863.01
+PROD-0023,Smartphones Model 345,Electronics,Smartphones,629.2,1154.6
+PROD-0024,Smartphones Model 611,Electronics,Smartphones,400.96,517.32
+PROD-0025,Smartphones Model 112,Electronics,Smartphones,514.09,646.11
+PROD-0026,Smartphones Model 235,Electronics,Smartphones,789.64,1537.54
+PROD-0027,Smartphones Model 530,Electronics,Smartphones,315.6,590.54
+PROD-0028,Smartphones Model 881,Electronics,Smartphones,298.68,521.6
+PROD-0029,Smartphones Model 174,Electronics,Smartphones,382.1,760.34
+PROD-0030,Smartphones Model 368,Electronics,Smartphones,23.18,29.07
+PROD-0031,Smartphones Model 908,Electronics,Smartphones,180.44,349.7
+PROD-0032,Smartphones Model 829,Electronics,Smartphones,324.4,463.63
+PROD-0033,Smartphones Model 818,Electronics,Smartphones,405.83,621.87
+PROD-0034,Smartphones Model 650,Electronics,Smartphones,327.8,561.33
+PROD-0035,Smartphones Model 417,Electronics,Smartphones,496.68,706.27
+PROD-0036,Tablets Model 927,Electronics,Tablets,413.93,564.0
+PROD-0037,Tablets Model 700,Electronics,Tablets,132.75,194.0
+PROD-0038,Tablets Model 797,Electronics,Tablets,511.09,954.52
+PROD-0039,Tablets Model 547,Electronics,Tablets,518.09,750.26
+PROD-0040,Tablets Model 159,Electronics,Tablets,586.67,1101.28
+PROD-0041,Tablets Model 218,Electronics,Tablets,203.14,394.03
+PROD-0042,Tablets Model 416,Electronics,Tablets,368.16,621.11
+PROD-0043,Tablets Model 279,Electronics,Tablets,536.2,925.72
+PROD-0044,Tablets Model 818,Electronics,Tablets,104.36,184.33
+PROD-0045,Tablets Model 455,Electronics,Tablets,18.97,30.3
+PROD-0046,Tablets Model 838,Electronics,Tablets,423.17,772.87
+PROD-0047,Tablets Model 867,Electronics,Tablets,214.81,321.68
+PROD-0048,Accessories Model 130,Electronics,Accessories,589.02,762.45
+PROD-0049,Accessories Model 636,Electronics,Accessories,274.66,423.93
+PROD-0050,Accessories Model 690,Electronics,Accessories,60.46,107.01
+PROD-0051,Accessories Model 623,Electronics,Accessories,505.75,807.64
+PROD-0052,Accessories Model 680,Electronics,Accessories,294.5,471.11
+PROD-0053,Accessories Model 891,Electronics,Accessories,141.84,188.06
+PROD-0054,Accessories Model 840,Electronics,Accessories,91.29,151.46
+PROD-0055,Accessories Model 102,Electronics,Accessories,101.11,181.25
+PROD-0056,Accessories Model 350,Electronics,Accessories,44.79,84.67
+PROD-0057,Accessories Model 253,Electronics,Accessories,46.33,69.09
+PROD-0058,Accessories Model 136,Electronics,Accessories,151.38,297.96
+PROD-0059,Accessories Model 858,Electronics,Accessories,446.76,862.76
+PROD-0060,Accessories Model 354,Electronics,Accessories,528.01,728.45
+PROD-0061,Accessories Model 377,Electronics,Accessories,338.84,601.86
+PROD-0062,Accessories Model 222,Electronics,Accessories,662.54,1097.98
+PROD-0063,Accessories Model 283,Electronics,Accessories,406.61,781.32
+PROD-0064,Accessories Model 147,Electronics,Accessories,186.32,300.46
+PROD-0065,Accessories Model 576,Electronics,Accessories,763.72,958.58
+PROD-0066,Chairs Model 188,Furniture,Chairs,621.09,899.69
+PROD-0067,Chairs Model 305,Furniture,Chairs,446.94,539.18
+PROD-0068,Chairs Model 857,Furniture,Chairs,240.36,439.28
+PROD-0069,Chairs Model 705,Furniture,Chairs,501.95,788.63
+PROD-0070,Chairs Model 894,Furniture,Chairs,777.77,1554.16
+PROD-0071,Chairs Model 878,Furniture,Chairs,164.38,315.67
+PROD-0072,Chairs Model 519,Furniture,Chairs,638.82,843.53
+PROD-0073,Chairs Model 751,Furniture,Chairs,28.89,47.18
+PROD-0074,Chairs Model 443,Furniture,Chairs,673.26,1280.38
+PROD-0075,Chairs Model 969,Furniture,Chairs,11.16,19.26
+PROD-0076,Chairs Model 310,Furniture,Chairs,593.09,857.61
+PROD-0077,Chairs Model 603,Furniture,Chairs,428.55,595.91
+PROD-0078,Chairs Model 245,Furniture,Chairs,769.34,1521.79
+PROD-0079,Chairs Model 337,Furniture,Chairs,572.21,729.24
+PROD-0080,Chairs Model 817,Furniture,Chairs,718.86,1161.54
+PROD-0081,Chairs Model 865,Furniture,Chairs,717.51,1124.17
+PROD-0082,Chairs Model 236,Furniture,Chairs,77.07,98.38
+PROD-0083,Chairs Model 706,Furniture,Chairs,513.4,778.05
+PROD-0084,Chairs Model 233,Furniture,Chairs,458.58,709.88
+PROD-0085,Tables Model 920,Furniture,Tables,240.42,452.17
+PROD-0086,Tables Model 434,Furniture,Tables,320.43,597.77
+PROD-0087,Tables Model 176,Furniture,Tables,261.27,370.37
+PROD-0088,Tables Model 888,Furniture,Tables,755.41,988.75
+PROD-0089,Tables Model 268,Furniture,Tables,471.92,624.98
+PROD-0090,Tables Model 223,Furniture,Tables,365.16,529.93
+PROD-0091,Tables Model 312,Furniture,Tables,433.38,854.5
+PROD-0092,Tables Model 972,Furniture,Tables,367.01,576.45
+PROD-0093,Tables Model 802,Furniture,Tables,104.73,138.88
+PROD-0094,Tables Model 717,Furniture,Tables,250.33,441.52
+PROD-0095,Tables Model 435,Furniture,Tables,41.86,78.23
+PROD-0096,Tables Model 464,Furniture,Tables,127.18,224.97
+PROD-0097,Tables Model 406,Furniture,Tables,323.03,400.29
+PROD-0098,Tables Model 131,Furniture,Tables,215.53,429.45
+PROD-0099,Tables Model 669,Furniture,Tables,762.16,1435.67
+PROD-0100,Tables Model 573,Furniture,Tables,600.98,841.3
+PROD-0101,Tables Model 224,Furniture,Tables,90.51,166.09
+PROD-0102,Desks Model 327,Furniture,Desks,58.72,107.15
+PROD-0103,Desks Model 481,Furniture,Desks,113.27,210.56
+PROD-0104,Desks Model 186,Furniture,Desks,552.17,1076.76
+PROD-0105,Desks Model 932,Furniture,Desks,470.04,661.37
+PROD-0106,Desks Model 302,Furniture,Desks,69.24,138.32
+PROD-0107,Desks Model 231,Furniture,Desks,722.97,1124.03
+PROD-0108,Desks Model 928,Furniture,Desks,82.66,155.22
+PROD-0109,Desks Model 572,Furniture,Desks,271.92,335.59
+PROD-0110,Desks Model 543,Furniture,Desks,50.0,96.97
+PROD-0111,Desks Model 130,Furniture,Desks,659.13,999.24
+PROD-0112,Bookcases Model 319,Furniture,Bookcases,549.74,735.69
+PROD-0113,Bookcases Model 556,Furniture,Bookcases,727.56,1033.12
+PROD-0114,Bookcases Model 734,Furniture,Bookcases,707.9,869.1
+PROD-0115,Bookcases Model 610,Furniture,Bookcases,497.41,854.46
+PROD-0116,Bookcases Model 162,Furniture,Bookcases,335.47,550.36
+PROD-0117,Bookcases Model 529,Furniture,Bookcases,79.3,119.46
+PROD-0118,Bookcases Model 638,Furniture,Bookcases,167.57,319.68
+PROD-0119,Bookcases Model 656,Furniture,Bookcases,206.83,412.68
+PROD-0120,Bookcases Model 900,Furniture,Bookcases,637.93,1270.45
+PROD-0121,Bookcases Model 900,Furniture,Bookcases,573.56,908.37
+PROD-0122,Bookcases Model 614,Furniture,Bookcases,392.9,758.35
+PROD-0123,Bookcases Model 126,Furniture,Bookcases,264.07,374.02
+PROD-0124,Bookcases Model 930,Furniture,Bookcases,261.91,360.18
+PROD-0125,Bookcases Model 583,Furniture,Bookcases,625.05,779.36
+PROD-0126,Bookcases Model 338,Furniture,Bookcases,428.25,776.62
+PROD-0127,Bookcases Model 772,Furniture,Bookcases,779.44,997.77
+PROD-0128,Bookcases Model 910,Furniture,Bookcases,200.51,326.22
+PROD-0129,Bookcases Model 324,Furniture,Bookcases,734.63,914.41
+PROD-0130,Bookcases Model 497,Furniture,Bookcases,464.8,923.15
+PROD-0131,Bookcases Model 965,Furniture,Bookcases,290.3,543.26
+PROD-0132,Bookcases Model 425,Furniture,Bookcases,147.23,204.54
+PROD-0133,Bookcases Model 705,Furniture,Bookcases,646.91,1137.33
+PROD-0134,Paper Model 681,Office Supplies,Paper,565.73,838.04
+PROD-0135,Paper Model 292,Office Supplies,Paper,455.25,751.38
+PROD-0136,Paper Model 604,Office Supplies,Paper,670.99,1240.2
+PROD-0137,Paper Model 138,Office Supplies,Paper,438.28,587.49
+PROD-0138,Paper Model 324,Office Supplies,Paper,81.3,112.69
+PROD-0139,Paper Model 439,Office Supplies,Paper,25.74,40.73
+PROD-0140,Paper Model 233,Office Supplies,Paper,735.14,1000.65
+PROD-0141,Paper Model 921,Office Supplies,Paper,279.2,374.68
+PROD-0142,Paper Model 122,Office Supplies,Paper,676.98,987.63
+PROD-0143,Paper Model 245,Office Supplies,Paper,126.69,223.45
+PROD-0144,Pens Model 174,Office Supplies,Pens,678.72,1281.79
+PROD-0145,Pens Model 505,Office Supplies,Pens,305.14,596.1
+PROD-0146,Pens Model 430,Office Supplies,Pens,472.95,694.88
+PROD-0147,Pens Model 547,Office Supplies,Pens,117.8,156.2
+PROD-0148,Pens Model 764,Office Supplies,Pens,635.56,1251.12
+PROD-0149,Pens Model 675,Office Supplies,Pens,260.65,460.24
+PROD-0150,Pens Model 905,Office Supplies,Pens,557.91,1084.06
+PROD-0151,Pens Model 934,Office Supplies,Pens,291.89,505.68
+PROD-0152,Pens Model 805,Office Supplies,Pens,148.53,214.69
+PROD-0153,Pens Model 101,Office Supplies,Pens,242.67,325.7
+PROD-0154,Pens Model 500,Office Supplies,Pens,759.54,1487.91
+PROD-0155,Pens Model 681,Office Supplies,Pens,682.1,1239.15
+PROD-0156,Pens Model 928,Office Supplies,Pens,35.58,59.84
+PROD-0157,Binders Model 608,Office Supplies,Binders,184.51,304.89
+PROD-0158,Binders Model 343,Office Supplies,Binders,121.11,217.55
+PROD-0159,Binders Model 751,Office Supplies,Binders,283.98,413.37
+PROD-0160,Binders Model 825,Office Supplies,Binders,709.4,901.63
+PROD-0161,Binders Model 443,Office Supplies,Binders,539.32,961.84
+PROD-0162,Binders Model 355,Office Supplies,Binders,362.84,512.39
+PROD-0163,Binders Model 905,Office Supplies,Binders,557.61,825.48
+PROD-0164,Binders Model 495,Office Supplies,Binders,95.35,114.52
+PROD-0165,Binders Model 270,Office Supplies,Binders,356.19,547.01
+PROD-0166,Binders Model 487,Office Supplies,Binders,708.8,1130.16
+PROD-0167,Binders Model 948,Office Supplies,Binders,287.47,431.28
+PROD-0168,Binders Model 766,Office Supplies,Binders,388.8,735.31
+PROD-0169,Binders Model 562,Office Supplies,Binders,609.01,840.72
+PROD-0170,Binders Model 401,Office Supplies,Binders,68.23,128.04
+PROD-0171,Binders Model 207,Office Supplies,Binders,25.86,36.43
+PROD-0172,Binders Model 484,Office Supplies,Binders,68.62,91.68
+PROD-0173,Binders Model 195,Office Supplies,Binders,137.11,172.76
+PROD-0174,Binders Model 594,Office Supplies,Binders,276.98,550.7
+PROD-0175,Binders Model 769,Office Supplies,Binders,566.56,875.37
+PROD-0176,Binders Model 260,Office Supplies,Binders,140.35,268.32
+PROD-0177,Binders Model 294,Office Supplies,Binders,52.31,76.63
+PROD-0178,Binders Model 847,Office Supplies,Binders,333.33,547.76
+PROD-0179,Binders Model 404,Office Supplies,Binders,436.7,754.83
+PROD-0180,Binders Model 685,Office Supplies,Binders,197.66,245.04
+PROD-0181,Binders Model 155,Office Supplies,Binders,444.23,707.55
+PROD-0182,Binders Model 401,Office Supplies,Binders,295.05,454.99
+PROD-0183,Binders Model 591,Office Supplies,Binders,660.88,1123.54
+PROD-0184,Binders Model 274,Office Supplies,Binders,167.74,204.74
+PROD-0185,Binders Model 584,Office Supplies,Binders,514.17,1018.9
+PROD-0186,Storage Model 600,Office Supplies,Storage,253.6,384.96
+PROD-0187,Storage Model 757,Office Supplies,Storage,716.95,1012.34
+PROD-0188,Storage Model 490,Office Supplies,Storage,439.86,592.89
+PROD-0189,Storage Model 369,Office Supplies,Storage,301.83,469.83
+PROD-0190,Storage Model 957,Office Supplies,Storage,357.39,504.18
+PROD-0191,Storage Model 870,Office Supplies,Storage,222.16,277.55
+PROD-0192,Storage Model 784,Office Supplies,Storage,560.21,715.59
+PROD-0193,Storage Model 874,Office Supplies,Storage,281.6,459.9
+PROD-0194,Storage Model 960,Office Supplies,Storage,475.88,781.81
+PROD-0195,Storage Model 648,Office Supplies,Storage,315.81,511.0
+PROD-0196,Storage Model 686,Office Supplies,Storage,552.78,1077.42
+PROD-0197,Storage Model 180,Office Supplies,Storage,706.51,1117.0
+PROD-0198,Storage Model 135,Office Supplies,Storage,321.9,606.19
